@@ -82,7 +82,7 @@ Provides:
 - Downtime after periods of inactivity \([solution](https://github.com/benbusby/whoogle-search#prevent-downtime-heroku-only)\)
 
 ### B) [Repl.it](https://repl.it)
-[![Run on Repl.it](https://repl.it/badge/github/benbusby/whoogle-search)](https://repl.it/github/benbusby/whoogle-search)
+[![Run on Repl.it](https://repl.it/badge/github/fcenobi/whoogle-search)](https://repl.it/github/fcenobi/whoogle-search)
 
 *Note: Requires a (free) Replit account*
 
